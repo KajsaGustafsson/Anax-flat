@@ -1,4 +1,4 @@
-Om den här sidan:
+Om den här sidan
 ==============================================
 Sidan är skapad som en del av kursen Teknisk webbdesign och användbarhet.
 
@@ -9,4 +9,6 @@ Kursen syftar till en orientering inom områden design och användbarhet, specif
 
 ![Kajsa Gustafsson](./img/bild3.jpeg)
 
-[GitHub-repot](https://github.com/KajsaGustafsson/Anax-flat)
+[Till sidans repo](https://github.com/KajsaGustafsson/Anax-flat)
+
+[Till temats repo](https://github.com/KajsaGustafsson/anax-flat-theme)
