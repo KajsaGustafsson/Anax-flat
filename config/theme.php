@@ -24,7 +24,7 @@ return [
             "stylesheets" => [
             "css/style.min.css",
             "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-],
+            ],
             "styleInline" => null,
 
             // JavaScript
@@ -83,7 +83,26 @@ return [
             "data" => [
                 "class"  => "footer-column",
                 "columns" => [
-                
+
+                ]
+            ],
+            "sort" => 1
+        ],
+        [
+            "region" => "footer",
+            "template" => "default/columns",
+            "data" => [
+                "class"  => "footer-column",
+                "columns" => [
+                    [
+                        "contentRoute" => "block/footer-col-1",
+                    ],
+                    [
+                        "contentRoute" => "block/footer-col-2",
+                    ],
+                    [
+                        "contentRoute" => "block/footer-col-3",
+                    ]
                 ]
             ],
             "sort" => 1

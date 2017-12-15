@@ -16,9 +16,21 @@ return [
 
             "hem" => [
                 "text"  => t("Hem"),
-                "url"   => $this->di->get("url")->create(""),
+                "url"   => $this->di->get("url")->create("index"),
                 "title" => t("Hem"),
                 "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Typografi"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid"),
             ],
 
             "report" => [
@@ -50,10 +62,22 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "Hem" => [
+            "hem" => [
                 "text"  => t("Hem"),
                 "url"   => $this->di->get("url")->create(""),
                 "title" => t("Reports from kmom assignments"),
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Typografi")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid")
             ],
 
             "report" => [
