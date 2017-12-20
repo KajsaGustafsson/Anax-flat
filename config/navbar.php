@@ -40,6 +40,25 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema")
+            ],
+
+            "themeselector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Temaväljare")
+            ],
+
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -85,6 +104,19 @@ return [
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisning"),
                 "mark-if-parent" => true,
+            ],
+
+            "analys" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Tema")
             ],
 
             "about" => [
