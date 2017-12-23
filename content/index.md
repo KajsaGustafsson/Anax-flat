@@ -21,4 +21,4 @@ Jag arbetade tidigare som frisör men blev tyvärr allergisk mot alla starka kem
 
 Jag hoppas att detta blir en spännande och lärorik kurs som kan ge mig kunskaper som förhoppningsvis kommer till nytta i mitt kommande arbetsliv.
 
-![Kajsa Gustafsson](./img/bild2.jpeg)
+[FIGURE src="image/bild2.jpeg]
