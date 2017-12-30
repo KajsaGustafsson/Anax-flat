@@ -88,10 +88,59 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "Designelement 1"     => [
+            "title"      => "Gradients, borders & centrerat innehåll.",
+            "class"      => "color",
+            "stylesheets" => [
+                "css/designelement1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Questrial"
+
+            ]
+        ],
+
+        "Designelement 2"     => [
+            "title"      => "Foto & Opacity.",
+            "class"      => "color",
+            "stylesheets" => [
+                "css/designelement2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Questrial"
+
+            ]
+        ],
+
+        "Designelement 3"     => [
+            "title"      => "Textur, fullbredd & bild",
+            "class"      => "color",
+            "stylesheets" => [
+                "css/designelement3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Questrial"
+
+            ]
+        ],
+
+        "Designprinciper 1"     => [
+            "title"      => "Movement & Variety",
+            "class"      => "color",
+            "stylesheets" => [
+                "css/designprinciper1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Questrial"
+
+            ]
+        ],
+
+        "Designprinciper 2"     => [
+            "title"      => "Perspective & Unity",
+            "class"      => "color",
+            "stylesheets" => [
+                "css/designprinciper2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Questrial"
+
+            ]
         ],
     ]
 ];

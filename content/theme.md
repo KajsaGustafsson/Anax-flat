@@ -1,6 +1,8 @@
 Teman
 ===============================
 
+* [Temaväljaren](http://www.student.bth.se/~kags17/dbwebb-kurser/design/me/anax-flat/htdocs/theme-selector)
+
 Base
 ---------------------
 
@@ -85,4 +87,4 @@ Typography
 <tr>
 </table>
 
-Temat har samma färgschema som temat Light. Jag har använt mig av typsnittet Marcellus SC till titlarna och Manuale till brödtexten. Båda är serif-typsnitt men jag tycker ändå att Marcellus SC fungerar bra till tiltlarna då "klackarna" inte är speciellt tydliga. 
+Temat har samma färgschema som temat Light. Jag har använt mig av typsnittet Marcellus SC till titlarna och Manuale till brödtexten. Båda är serif-typsnitt men jag tycker ändå att Marcellus SC fungerar bra till tiltlarna då "klackarna" inte är speciellt tydliga.

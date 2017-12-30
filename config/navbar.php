@@ -53,11 +53,6 @@ return [
                 "title" => t("Tema")
             ],
 
-            "themeselector" => [
-                "text"  => t("Temaväljare"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Temaväljare")
-            ],
 
             "blogg" => [
                 "text"  => t("Blogg"),
@@ -69,6 +64,18 @@ return [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder")
+            ],
+
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designelement")
+            ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper")
             ],
 
             "about" => [
@@ -131,11 +138,6 @@ return [
                 "title" => t("Tema")
             ],
 
-            "themeselector" => [
-                "text"  => t("Temaväljare"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Temaväljare")
-            ],
 
             "blogg" => [
                 "text"  => t("Blogg"),
@@ -147,6 +149,18 @@ return [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder")
+            ],
+
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designelement")
+            ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper")
             ],
 
             "about" => [
