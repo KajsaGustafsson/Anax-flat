@@ -1,3 +1,3 @@
-####Min bildblogg
+####E-handelsbloggen
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Spännande artiklar om E-handel, sökmotoroptimering och digital marknadsföring. 

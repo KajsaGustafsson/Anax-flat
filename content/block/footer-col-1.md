@@ -1,3 +1,3 @@
-####Anax Flat
+####Bew Gorp
 
-[Get going](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat)
+Vi är specialiserade på att skapa skräddarsydda webshopar.

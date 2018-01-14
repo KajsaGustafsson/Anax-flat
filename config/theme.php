@@ -17,8 +17,8 @@ return [
             "bodyClass"     => [],
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | Anax Flat",
-            "favicon"       => "img/favicon/favicon_256x256.png",
+            "title_append"  => " | Bew Gorp",
+            "favicon"       => "img/favicon/fav.png",
 
             // Style and stylesheets
             "stylesheets" => [
@@ -43,7 +43,7 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/logo5.png",
+                "src" => "img/Bew-Gorp.png",
                 "alt" => "Logo",
             ],
             "sort" => 1

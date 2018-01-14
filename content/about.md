@@ -1,14 +1,29 @@
-Om den här sidan
+---
+views:
+
+    flash:
+        region: flash
+        template: default/image
+        data:
+            src: "img/om.jpg"
+            class: "flash-img"
+
+
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/newdiv
+
+
+...
+
+
+Om Bew Gorp
 ==============================================
-Sidan är skapad som en del av kursen Teknisk webbdesign och användbarhet.
+Bew Gorp är en e-handelsbyrå som är specialiserad på att bygga skräddarsydda webshopar åt våra kunder. Vi arbetar främst med utveckling i e-handelsplattformarna Magento och WooCommerce.
 
-Kursen Teknisk webbdesign och användbarhet, a.k.a. design, lär webbprogrammeraren att tekniskt förbereda sin webbplats för design och användbarhet.
-
-Kursen syftar till en orientering inom områden design och användbarhet, specifikt för tillämpningsområdet webb. Kursen har tekniken som utgångspunkt, där olika tekniker introduceras och används för att underlätta webbdesign och användbarhet för webbplatsen med syftet att skapa en korrekt och användarvänlig webbplats.
-
-
-[FIGURE src="image/bild3.jpeg]
-
-[Till sidans repo](https://github.com/KajsaGustafsson/Anax-flat)
-
-[Till temats repo](https://github.com/KajsaGustafsson/anax-flat-theme)
+På vår webbplats hittar du information om företaget och de tjänster vi erbjuder. Vi har även en blogg där vi samlar inspirerande artiklar om e-handel, sökmotoroptimering och digital marknadsföring.

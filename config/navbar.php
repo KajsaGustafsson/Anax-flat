@@ -21,37 +21,6 @@ return [
                 "mark-if-parent" => true,
             ],
 
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography?hgrid"),
-                "title" => t("Typografi"),
-            ],
-
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid?vgrid"),
-                "title" => t("Grid"),
-            ],
-
-            "report" => [
-                "text"  => t("Redovisning"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Redovisning"),
-                "mark-if-parent" => true,
-            ],
-
-            "analysis" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analys"),
-                "mark-if-parent" => true,
-            ],
-
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Tema")
-            ],
 
 
             "blogg" => [
@@ -60,28 +29,19 @@ return [
                 "title" => t("Blogg")
             ],
 
-            "images" => [
-                "text"  => t("Bilder"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bilder")
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Teman"),
+                "mark-if-parent" => true,
             ],
 
-            "design-element" => [
-                "text"  => t("Designelement"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("Designelement")
-            ],
 
-            "design-principles" => [
-                "text"  => t("Designprinciper"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("Designprinciper")
-            ],
 
             "about" => [
-                "text"  => t("Om"),
+                "text"  => t("Om oss"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Om")
+                "title" => t("Om oss")
             ],
         ],
     ],
@@ -106,37 +66,6 @@ return [
                 "title" => t("Reports from kmom assignments"),
             ],
 
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography?hgrid"),
-                "title" => t("Typografi")
-            ],
-
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid?vgrid"),
-                "title" => t("Grid")
-            ],
-
-            "report" => [
-                "text"  => t("Redovisning"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Redovisning"),
-                "mark-if-parent" => true,
-            ],
-
-            "analys" => [
-                "text"  => t("Analys"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analys"),
-                "mark-if-parent" => true,
-            ],
-
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Tema")
-            ],
 
 
             "blogg" => [
@@ -145,23 +74,13 @@ return [
                 "title" => t("Blogg")
             ],
 
-            "images" => [
-                "text"  => t("Bilder"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bilder")
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Teman"),
+                "mark-if-parent" => true,
             ],
 
-            "design-element" => [
-                "text"  => t("Designelement"),
-                "url"   => $this->di->get("url")->create("design-element"),
-                "title" => t("Designelement")
-            ],
-
-            "design-principles" => [
-                "text"  => t("Designprinciper"),
-                "url"   => $this->di->get("url")->create("design-principle"),
-                "title" => t("Designprinciper")
-            ],
 
             "about" => [
                 "text"  => t("Om"),

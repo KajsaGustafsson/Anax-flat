@@ -1,2 +1,3 @@
-####Repo
-[GitHub-repot](https://github.com/KajsaGustafsson/Anax-flat)
+####Kontaktuppgifter
+Adress: Hittepågatan 13,
+34561, Hittepå

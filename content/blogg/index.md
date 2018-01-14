@@ -1,5 +1,7 @@
 ---
 views:
+
+
     main:
         template: default/article
         data:
@@ -30,7 +32,7 @@ views:
                 view: blog-list
 
 ...
-Dagens bild
+E-handelsbloggen
 ===========================
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Spännande artiklar om E-handel, sökmotoroptimering och digital marknadsföring.

@@ -1,27 +1,39 @@
 ---
 author: kags
-published: "2016-11-15"
+published: "2018-01-11"
 category:
-    - dagens bild
+    - SEO
 ...
-Sundet i Hamburgsund
-==================================
+Vad är broken link building?
+-----------------------------------
 
-[FIGURE src="image/img1.jpg"]
+BLB är som en metod där du för att bygga länkar aktivt söker efter sidor som länkar till material som inte längre existerar eller aktivt uppdateras.
 
-Jag fotograferade ut över sundet i Hamburgsund. Jag använde mig av en iPhone 6S utan några speciella inställningar när jag tog bilden.
+[FIGURE src="image/seo.jpg?]
 
 <!--more-->
 
+BLB är som en metod där du för att bygga länkar aktivt söker efter sidor som länkar till material som inte längre existerar eller aktivt uppdateras. Du återupplivar därefter materialet och ber sedan den länkande sajten att peka om länken till det du själv framställt.
+
+Sammanfattat gör du som följer:
+
+Leta upp sajter relaterade till din egen nisch.
+Använd ett verktyg för att hitta utåtgående brutna länkar. För att göra det här kan du använda t.ex. Majestic SEO, Ahrefs eller Screaming Frog.
+Kontakta sajtägaren och uppmärksamma denne om problemet. Föreslå att denne istället länkar till ditt nya, fräscha och uppdaterade material.
+Rinse and repeat
+
+Med BLB kan du hyfsat enkelt kan få länkar från välrenommerade sidor inom din nisch. Dessutom är det hela inte särskilt svårt utan handlar, som med så mycket annat inom SEO, framförallt om automatisering och produktivitet. Tricket är att hitta sajter vars material, med tanke på dess backlinks, verkligen är värt att återuppliva. Det är som sökmotoroptimering i allmänhet – en massa länk-research, vilket är väldigt intressant, och sedan outreach vilket oftast inte är lika upphetsande.
 
 
-Bilden ur fler aspekter {#var}
------------------------------------
+Två enkla metoder för broken link building
 
-[FIGURE src="image/img1.jpg?h=600&crop-to-fit&area=0,25,0,40"]
 
-[FIGURE src="image/img1.jpg?h=600&crop-to-fit&area=0,25,0,40&f=grayscale"]
 
-[FIGURE src="image/img1.jpg?h=600&crop-to-fit&area=0,25,0,40&f=mean_removal"]
+Det finns många olika verktyg du kan använda när du gör BLB men här kommer jag använda favoriten Majestic SEO.
 
-[FIGURE src="image/img1.jpg?h=600&crop-to-fit&area=10,10,30,10"]
+Det finns huvudsakligen två tillvägagångssätt:
+
+Hitta länkresurser på myndighetssidor, universitetssidor eller andra high authority-sajter och kontrollera om några länkar är brutna.
+Kontrollera länkar till authority-sajter från andra sajter. Gör sedan research och ta reda på om arbetet är mödan värt.
+
+För båda metoder gäller nu att göra en bedömning av inlänkarna och därefter göra en koll av det ursprungliga innehållet.
